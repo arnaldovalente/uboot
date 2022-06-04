@@ -9,3 +9,6 @@
  - uboot-orangepi-one-plus
  - uboot-orangepi-3
  - uboot-orangepi-lite2
+
+# Allwinner H6 [ uboot 2021.10 - atf 2.5 ]
+ - uboot-tanix-tx6
