@@ -6,8 +6,6 @@
  - uboot-orangepi-pc2
 
 # Allwinner H6 [ uboot 2022.04 - atf 2.6 ]
- - uboot-orangepi-one-plus
- - uboot-orangepi-3
  - uboot-orangepi-lite2
 
 # Allwinner H6 [ uboot 2021.10 - atf 2.5 ]
@@ -15,3 +13,5 @@
 
 # Allwinner H6 [ uboot 2021.01 - atf 2.4 ]
  - uboot-orangepi-3-lts
+ - uboot-orangepi-3
+ - uboot-orangepi-one-plus
